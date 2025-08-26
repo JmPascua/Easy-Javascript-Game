@@ -1,3 +1,3 @@
 # Practice Game
 
-Nothing Crazy just wanted to practice simple HTML, Javascript, and CSS
+Nothing crazy just wanted to practice simple HTML, Javascript, and CSS
