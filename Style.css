@@ -45,12 +45,14 @@
     animation: block 1s infinite linear;
 }
 
-@keyframes block{
+@keyframes block
+{
     0%{left: 500px}
     100%{left: -20px}
 }
 
-p{
+p
+{
     text-align: center;
 }
 
